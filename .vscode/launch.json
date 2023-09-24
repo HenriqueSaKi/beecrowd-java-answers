@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "beecrowd-java-answers_9e8c3e16"
+        },
+        {
+            "type": "java",
             "name": "Launch Beecrowd1235",
             "request": "launch",
             "mainClass": "Beecrowd1235",
